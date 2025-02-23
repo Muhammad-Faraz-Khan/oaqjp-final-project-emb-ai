@@ -1,0 +1,17 @@
+[33mcommit 5bbc687736a527ac1988be555e21f50874ea2826[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Muhammad-Faraz-Khan <muhammadfarazkhan96@gmail.com>
+Date:   Sat Feb 22 22:02:58 2025 -0500
+
+    Add sage file
+
+[33mcommit d131e6fca9516609da8d3a2f097b1a8926cc8766[m
+Author: Muhammad-Faraz-Khan <muhammadfarazkhan96@gmail.com>
+Date:   Sat Feb 22 22:02:42 2025 -0500
+
+    Add .gitignore
+
+[33mcommit cffb9e93626a6c1c1c402e24fe562017a8f0725f[m
+Author: Muhammad-Faraz-Khan <muhammadfarazkhan96@gmail.com>
+Date:   Sat Feb 22 22:02:17 2025 -0500
+
+    Add emotion_detection.py and project files
